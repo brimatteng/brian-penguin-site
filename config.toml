@@ -1,4 +1,4 @@
-baseURL = "http://brianpenguin.com/blog"
+baseURL = "/"
 languageCode = "en-us"
 title = "brianpenguin"
 theme = "hugo-theme-console"
