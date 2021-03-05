@@ -2,3 +2,16 @@ baseURL = "/"
 languageCode = "en-us"
 title = "brianpenguin"
 theme = "hugo-theme-console"
+
+[params]
+  # This shortens the user in the header to two letters
+  titleCutting = false
+
+  [[params.navlinks]]
+  name = "posts/"
+  url = "posts/"
+
+
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
